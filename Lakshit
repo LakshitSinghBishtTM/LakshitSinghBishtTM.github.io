@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lakshit Singh Bisht – Academic Portfolio</title>
+    <style>
+          body {
+    font-family: "Times New Roman", Times, serif;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0077B5;
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+        header p {
+            font-size: 1.2rem;
+            margin: 0.5rem 0 0;
+        }
+        section {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1.5rem;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #0077B5;
+            border-bottom: 2px solid #0077B5;
+            padding-bottom: 0.3rem;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        ul li {
+            margin-bottom: 0.5rem;
+        }
+        .badges a {
+            margin: 0.3rem;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .download a {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background-color: #0077B5;
+            color: white;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 1rem;
+        }
+        .download a:hover {
+            background-color: #005582;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            font-size: 0.9rem;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Lakshit Singh Bisht</h1>
+    <p>M.Sc. Mathematics and Computing | Researcher | Student | Mathematics Enthusiast</p>
+    <p>Central University of Andhra Pradesh</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>I am currently pursuing my Master of Science in Mathematics and Computing. My research interest is primarily Functional Analysis with Linear Algebra and Real Analysis. Alongwith mathematics, I use python and other computing tools like sagemath. I am interested in doing research with other mathemaaticians and find new ideas in the near future. My goal is to contribute to the mathematical community and collaborate with other similar minded people .</p>
+</section>
+
+<section>
+    <h2>Research Interests</h2>
+    <ul>
+        <li><strong>Real Analysis:</strong> </li>
+        <li><strong>Functional Analysis:</strong> </li>
+        <li><strong>Linear Algebra:</strong> </li>
+    </ul>
+</section>
+
+<section>
+    <h2>Academic & Professional Profiles</h2>
+    <p>Connect with me and explore my research, publications, and contributions across platforms:</p>
+
+    <div class="profiles-grid">
+        <a href="https://orcid.org/0009-0004-0035-5714" target="_blank" rel="noopener noreferrer" class="profile-card">ORCID</a>
+        <a href="https://github.com/LakshitSinghBishtTM" target="_blank" rel="noopener noreferrer" class="profile-card">GitHub</a>
+        <a href="https://scholar.google.com/citations?user=cAZxaQMAAAAJ" target="_blank" rel="noopener noreferrer" class="profile-card">Google Scholar</a>
+        <a href="https://arxiv.org/a/0009-0004-0035-5714" target="_blank" rel="noopener noreferrer" class="profile-card">arXiv</a>
+        <a href="https://cuap.academia.edu/LakshitSinghBisht" target="_blank" rel="noopener noreferrer" class="profile-card">Academia.edu</a>
+        <a href="https://zenodo.org/communities/LakshitSinghBishtTM" target="_blank" rel="noopener noreferrer" class="profile-card">Zenodo</a>
+        <a href="https://www.linkedin.com/in/lakshitsinghbishttm" target="_blank" rel="noopener noreferrer" class="profile-card">LinkedIn</a>
+        <a href="https://medium.com/@lakshitsinghbishttm" target="_blank" rel="noopener noreferrer" class="profile-card">Medium</a>
+        <a href="https://math.stackexchange.com/users/1678354/lakshit-singh-bisht" target="_blank" rel="noopener noreferrer" class="profile-card">Math StackExchange</a>
+        <a href="https://en.wikipedia.org/wiki/User:LakshitSinghBishtTM" target="_blank" rel="noopener noreferrer" class="profile-card">Wikipedia</a>
+    </div>
+</section>
+
+<style>
+.profiles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 16px;
+    margin-top: 16px;
+}
+
+.profile-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 16px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.profile-card:hover {
+    background-color: #e0e0ff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+</style>
+
+
+<section>
+    <h2>Projects</h2>
+    <p>Explore my primary repositories for MSc coursework and research projects:</p>
+    <ul>
+        <li><a href="https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations" target="_blank" rel="noopener noreferrer">Ordinary Differential Equations</a></li>
+        <li><a href="https://github.com/LakshitSinghBishtTM/Computer-Programming-in-Python" target="_blank" rel="noopener noreferrer">Computer Programming in Python</a></li>
+        <li><a href="https://github.com/LakshitSinghBishtTM/Real-Analysis" target="_blank" rel="noopener noreferrer">Real Analysis</a></li>
+        <li><a href="https://github.com/LakshitSinghBishtTM/Abstract-Algebra" target="_blank" rel="noopener noreferrer">Abstract Algebra</a></li>
+        <li><a href="https://github.com/LakshitSinghBishtTM/Linear-Algebra" target="_blank" rel="noopener noreferrer">Linear Algebra</a></li>
+    </ul>
+</section>
+
+
+<section>
+    <h2>Achievements & Honors</h2>
+    <ul>
+        <li>10th Board Merit Position</li>
+        <li>Selected for INSPIRE Scholarship (not availed)</li>
+        <li>Strong academic record in B.Sc. and M.Sc.</li>
+    </ul>
+</section>  
+
+<section>
+    <h2>Connect with Me</h2>
+    <div class="badges">
+        <a href="https://github.com/LakshitSinghBishtTM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+        <a href="https://orcid.org/0009-0004-0035-5714"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+        <a href="https://scholar.google.com/citations?user=cAZxaQMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+        <a href="https://arxiv.org/a/0009-0004-0035-5714"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
+        <a href="https://cuap.academia.edu/LakshitSinghBisht"><img src="https://img.shields.io/badge/Academia.edu-4B78C3?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu"></a>
+        <a href="https://math.stackexchange.com/users/1678354/lakshit-singh-bisht"><img src="https://img.shields.io/badge/Math%20StackExchange-2E7D32?style=for-the-badge&logo=stack-exchange&logoColor=white" alt="Math StackExchange"></a>
+        <a href="https://www.linkedin.com/in/lakshitsinghbishttm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://en.wikipedia.org/wiki/User:LakshitSinghBishtTM"><img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia"></a>
+        <a href="https://medium.com/@lakshitsinghbishttm"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+    </div>
+</section>
+
+<footer>
+    <p>Portfolio last updated: September 2025</p>
+</footer>
+
+</body>
+</html>
